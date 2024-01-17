@@ -1,0 +1,18 @@
+.list-item {
+  list-style-type: none;
+}
+
+.destination-container {
+  margin: 20px;
+}
+
+.destination-image {
+  height: 180px;
+  width: 250px;
+}
+
+.destination-name {
+  color: #000000;
+  font-size: 14px;
+  font-weight: bold;
+}
